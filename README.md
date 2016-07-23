@@ -50,6 +50,7 @@ var wcjs = require("wcjs-prebuilt");
 * [Stremio](http://www.strem.io) - since version 2.0
 * [Powder Player](http://powder.media) - since version 0.90
 * [Popcorn Time](https://popcorntime.io) - not yet released with WebChimera.js, in progress
+* [Popcorn Time Experimental](https://github.com/amilajack/popcorn-desktop-experimental/) - An experimental PopcornTime client built with electron, react, and redux
 
 
 (please PR other use cases)
